@@ -34,9 +34,8 @@ class UsersController extends AppController {
 			$timestamp = time (); //
 			$tokenhash = sha1 ( $request['username'] . rand ( 0, 100 ) . $timestamp ) . "&" . $timestamp;
 			$request["tokenhash"] = $tokenhash;
-			$user = $this->Users->newEntity ( $request );
-			$valid = $this->Users->validate($user, ["validate"=>"register"]);
-			if ($valid && ($result = $this->Users->save($user))) {
+			$user = $this->Users->newEntity ( $request,["validate"=>"register"]);
+			if ($result = $this->Users->save($user)) {
 				$id = $result->id;
 				$request = array_merge ( $request, [
 					'id' => $id
