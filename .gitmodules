@@ -1,0 +1,3 @@
+[submodule "webroot/js/MathJax"]
+	path = webroot/js/MathJax
+	url = git://github.com/mathjax/MathJax.git
