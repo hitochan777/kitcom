@@ -1106,12 +1106,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/debug_kit.git",
-                "reference": "c8e2e4fc52c3fd581b370c386bac68b4ea09034c"
+                "reference": "e8ae8e76cfd10372d981ea2359afaa2fb58e2341"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/debug_kit/zipball/c8e2e4fc52c3fd581b370c386bac68b4ea09034c",
-                "reference": "c8e2e4fc52c3fd581b370c386bac68b4ea09034c",
+                "url": "https://api.github.com/repos/cakephp/debug_kit/zipball/e8ae8e76cfd10372d981ea2359afaa2fb58e2341",
+                "reference": "e8ae8e76cfd10372d981ea2359afaa2fb58e2341",
                 "shasum": ""
             },
             "require": {
@@ -1154,7 +1154,7 @@
                 "debug",
                 "kit"
             ],
-            "time": "2015-01-05 01:31:33"
+            "time": "2015-01-17 13:05:10"
         },
         {
             "name": "d11wtq/boris",
