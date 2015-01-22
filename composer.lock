@@ -131,12 +131,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/cakephp.git",
-                "reference": "54601053b21ccbb06e696438ae212b365e17a058"
+                "reference": "da10b6b33a58cc4640b202d8458f34bfbf802b37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/54601053b21ccbb06e696438ae212b365e17a058",
-                "reference": "54601053b21ccbb06e696438ae212b365e17a058",
+                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/da10b6b33a58cc4640b202d8458f34bfbf802b37",
+                "reference": "da10b6b33a58cc4640b202d8458f34bfbf802b37",
                 "shasum": ""
             },
             "require": {
@@ -190,7 +190,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2015-01-17 19:12:17"
+            "time": "2015-01-21 08:58:55"
         },
         {
             "name": "cakephp/migrations",
@@ -386,12 +386,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/erusev/parsedown.git",
-                "reference": "bdf0ef024eec7e6c68ecede81a8d7ec904a5584a"
+                "reference": "648419467ae91e0d84a0e01535dd316306cc210d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/erusev/parsedown/zipball/bdf0ef024eec7e6c68ecede81a8d7ec904a5584a",
-                "reference": "bdf0ef024eec7e6c68ecede81a8d7ec904a5584a",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/648419467ae91e0d84a0e01535dd316306cc210d",
+                "reference": "648419467ae91e0d84a0e01535dd316306cc210d",
                 "shasum": ""
             },
             "type": "library",
@@ -417,7 +417,7 @@
                 "markdown",
                 "parser"
             ],
-            "time": "2015-01-18 17:38:57"
+            "time": "2015-01-20 23:32:20"
         },
         {
             "name": "friendsofcake/cakepdf",
@@ -1053,17 +1053,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/bake.git",
-                "reference": "62867edde6dda628906e4f68008b148a4e99d85f"
+                "reference": "f9679c04b6cf8b1abdba3086c0ea5497f515c914"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/bake/zipball/62867edde6dda628906e4f68008b148a4e99d85f",
-                "reference": "62867edde6dda628906e4f68008b148a4e99d85f",
+                "url": "https://api.github.com/repos/cakephp/bake/zipball/f9679c04b6cf8b1abdba3086c0ea5497f515c914",
+                "reference": "f9679c04b6cf8b1abdba3086c0ea5497f515c914",
                 "shasum": ""
             },
             "require": {
                 "cakephp/cakephp": "3.0.x-dev",
-                "cakephp/plugin-installer": "*",
                 "php": ">=5.4"
             },
             "require-dev": {
@@ -1092,7 +1091,7 @@
                 "bake",
                 "cakephp"
             ],
-            "time": "2015-01-18 00:58:40"
+            "time": "2015-01-21 09:41:14"
         },
         {
             "name": "cakephp/debug_kit",
