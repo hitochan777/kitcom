@@ -131,12 +131,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/cakephp.git",
-                "reference": "67a6988a7cdd2ddc530478e471dc4287b034d43a"
+                "reference": "24264629aeab8c62752309d7e44b6dcc66fc701a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/67a6988a7cdd2ddc530478e471dc4287b034d43a",
-                "reference": "67a6988a7cdd2ddc530478e471dc4287b034d43a",
+                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/24264629aeab8c62752309d7e44b6dcc66fc701a",
+                "reference": "24264629aeab8c62752309d7e44b6dcc66fc701a",
                 "shasum": ""
             },
             "require": {
@@ -190,7 +190,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2015-02-01 08:10:04"
+            "time": "2015-02-02 01:44:50"
         },
         {
             "name": "cakephp/migrations",
@@ -386,12 +386,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/erusev/parsedown.git",
-                "reference": "9da19c1108c39df9b42adc42e39b8371070652d0"
+                "reference": "6c9df528aafd8182c3fcd69a341bd214e147005f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/erusev/parsedown/zipball/9da19c1108c39df9b42adc42e39b8371070652d0",
-                "reference": "9da19c1108c39df9b42adc42e39b8371070652d0",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/6c9df528aafd8182c3fcd69a341bd214e147005f",
+                "reference": "6c9df528aafd8182c3fcd69a341bd214e147005f",
                 "shasum": ""
             },
             "type": "library",
@@ -417,7 +417,7 @@
                 "markdown",
                 "parser"
             ],
-            "time": "2015-01-24 13:01:47"
+            "time": "2015-02-02 00:33:38"
         },
         {
             "name": "friendsofcake/cakepdf",
